@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="left">Hi 👋! My name is David and I'm a student of systems analysis and development at Unifor, from Céara</h3>
 
 ###
