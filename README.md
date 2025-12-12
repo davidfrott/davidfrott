@@ -2,8 +2,6 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em soluções **Full-Stack** e processos de deploy eficientes. Paixão por transformar ideias em sistemas funcionais, limpos e otimizados.
 
----
-
 ## Stack de Desenvolvimento
 
 ### Linguagens Core
@@ -25,22 +23,15 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em soluções **Ful
 * **Ferramentas DB:** **DBeaver** (Gerenciamento e administração de bancos de dados).
 * **Sistemas Operacionais:** **Linux** e **Windows** (Conhecimento em ambientes de desenvolvimento e produção).
 
----
-
 ## Projetos em Destaque
 
 * **[Nome do Projeto 1]**: Breve descrição de 1 linha sobre o que o projeto faz.
 * **[Nome do Projeto 2]**: Breve descrição de 1 linha sobre o que o projeto faz.
 * **[Nome do Projeto 3]**: Breve descrição de 1 linha sobre o que o projeto faz.
 
-
----
-
 ### Conecte-se Comigo
 
 * [LinkedIn](www.linkedin.com/in/david-frota-43264336b) ➡️ Para networking profissional.
 * [Email](mailto:silvadavz70@gmail.com) 📧 Para contato direto.
-
----
 
 *“Passionate about technology and continuous learning.”*
