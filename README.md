@@ -1,20 +1,49 @@
-### Olá! Eu sou o David Frota 👋
+# Olá, eu sou David Fotta 👋
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** com paixão por criar soluções web robustas e intuitivas. Busco constantemente aplicar meus conhecimentos em projetos práticos.
-
----
-
-### Minhas Habilidades Principais
-
-* **Linguagens:** JavaScript, Java
-* **Frontend:** HTML5, CSS3
-* **Backend:** Node.js, Express, SQLite, PostegreSQL
-* **Ferramentas:** Git, Dbeaver, NPM & Oracle Cloud Infrastructure (OCI)
-* **OS:** Linux & Windwos
+Estudante de Análise e Desenvolvimento de Sistemas com foco em soluções **Full-Stack** e processos de deploy eficientes. Paixão por transformar ideias em sistemas funcionais, limpos e otimizados.
 
 ---
 
-### Conecte-se Comigo
+## Stack de Desenvolvimento
 
-* [LinkedIn](www.linkedin.com/in/david-frota-43264336b) ➡️ Para networking profissional.
-* [Email](mailto:silvadavz70@gmail.com) 📧 Para contato direto.
+### Linguagens Core
+* **Java:** Experiência em desenvolvimento de aplicações robustas.
+* **JavaScript (JS):** Base para desenvolvimento front-end e back-end.
+* **HTML & CSS:** Estruturação e estilização de interfaces web.
+
+### Back-end & Frameworks
+* **Node.js & Express:** Utilização para construção de APIs e serviços web escaláveis.
+
+### Banco de Dados (DB)
+* **PostgreSQL:** SGBD relacional robusto para projetos de produção.
+* **SQLite:** Ideal para projetos que necessitam de banco de dados embutido/local.
+
+### Infraestrutura & Ferramentas
+* **Cloud & Deploy:** **Oracle Cloud Infrastructure (OCI)** (Experiência em deploy e gerenciamento de ambientes).
+* **Controle de Versão:** **Git** (Utilização avançada para colaboração e histórico de código).
+* **Gerenciamento de Pacotes:** **npm** (Package Manager do Node.js).
+* **Ferramentas DB:** **DBeaver** (Gerenciamento e administração de bancos de dados).
+* **Sistemas Operacionais:** **Linux** e **Windows** (Conhecimento em ambientes de desenvolvimento e produção).
+
+---
+
+## Projetos em Destaque
+
+* **[Nome do Projeto 1]**: Breve descrição de 1 linha sobre o que o projeto faz.
+* **[Nome do Projeto 2]**: Breve descrição de 1 linha sobre o que o projeto faz.
+* **[Nome do Projeto 3]**: Breve descrição de 1 linha sobre o que o projeto faz.
+
+
+---
+
+## Conecte-se Comigo
+
+| Tipo | Link/Contato |
+| :--- | :--- |
+| **LinkedIn** | [www.linkedin.com/in/david-frota-43264336b] |
+| **Email** | silvadavz70@gmail.com |
+| **Localização** | Fortaleza, Céara |
+
+---
+
+*“Passionate about technology and continuous learning.”*
