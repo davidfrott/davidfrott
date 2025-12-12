@@ -36,13 +36,10 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em soluções **Ful
 
 ---
 
-## Conecte-se Comigo
+### Conecte-se Comigo
 
-| Tipo | Link/Contato |
-| :--- | :--- |
-| **LinkedIn** | [www.linkedin.com/in/david-frota-43264336b] |
-| **Email** | silvadavz70@gmail.com |
-| **Localização** | Fortaleza, Céara |
+* [LinkedIn](www.linkedin.com/in/david-frota-43264336b) ➡️ Para networking profissional.
+* [Email](mailto:silvadavz70@gmail.com) 📧 Para contato direto.
 
 ---
 
